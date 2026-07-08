@@ -12,7 +12,6 @@ Contiene los proyectos de variados temas que he realizado en lenguaje Python y B
 * [PyMoDoRo](https://github.com/kurotom/proyectos_varios/tree/PyMoDoRo)
 * [Tic_Tac_Toe](https://github.com/kurotom/proyectos_varios/tree/Tic_Tac_Toe)
 * [auto_update_mods](https://github.com/kurotom/proyectos_varios/tree/auto_update_mods)
-* [enquefase_scraping](https://github.com/kurotom/proyectos_varios/tree/enquefase_scraping)
 * [gui_image_compress](https://github.com/kurotom/proyectos_varios/tree/gui_image_compress)
 * [scraping_web_to_pdf](https://github.com/kurotom/proyectos_varios/tree/scraping_web_to_pdf)
 * [pdf_to_image](https://github.com/kurotom/proyectos_varios/tree/pdf_to_image)
